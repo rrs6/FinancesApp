@@ -1,2 +1,2 @@
 # FinancesApp
-A project created to practice a front-end Web development.
+A Rocketseat project created to practice a front-end Web development.
